@@ -4,12 +4,12 @@ Repository to showcase my work (done and in progress) during the Bootcamp learni
 
 ## Crystals Collector Game
 [Repo Link](https://github.com/sergioardz79/unit-4-game)  
-[Game Link](https://sergioardz79.github.io/unit-4-game/index.html)
+[Game Link](https://sergioardz.github.io/unit-4-game/index.html)
 
 
 ## GifTastic
 [Repo Link](https://github.com/sergioardz79/GifTastic)  
-[GifTastic Link](https://sergioardz79.github.io/GifTastic/index.html)
+[GifTastic Link](https://sergioardz.github.io/GifTastic/index.html)
 
 
 ## Project 1 - Beer Hunters
